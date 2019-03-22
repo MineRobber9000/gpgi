@@ -1,10 +1,15 @@
-# GPGI Specification v0.1.0
+# GPGI Specification v0.1.1
 
 ## Metadata
 
 Author: Robert "khuxkm" Miles <khuxkm@tilde.team>  
 WIP  
 Errata probably exist, that's why this is zero-ver
+
+Version history:
+
+ - v0.1.0 - initial release
+ - v0.1.1 - fix formatting
 
 ## Rationale
 
@@ -22,7 +27,7 @@ to be easy to implement.
 ## Gopher
 
 The Gopher protocol is a TCP/IP application layer protocol designed for 
-distributing, searching, and retrieving documents over the Internet.^[[1]][1]
+distributing, searching, and retrieving documents over the Internet. ([Wikipedia][1])
 
 Originally built by Mark McCahill and his team of University of Minnesota, 
 Gopher eventually lost to the World Wide Web. However, to this day, Gopher 
